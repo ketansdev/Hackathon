@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-06-21T11:13:30.572Z",
+  "operatingSystem": {
+    "type": "Windows_NT",
+    "platform": "win32",
+    "release": "10.0.26200",
+    "version": "Windows 11 Home Single Language",
+    "uptimeSeconds": 998556.625,
+    "endianness": "LE"
+  },
+  "cpu": {
+    "architecture": "x64",
+    "model": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+    "coreCount": 8,
+    "loadAverage": [
+      0,
+      0,
+      0
+    ]
+  },
+  "memory": {
+    "totalMemory": "15.79 GB",
+    "freeMemory": "2.11 GB"
+  },
+  "host": {
+    "hostname": "Ketan",
+    "homeDirectory": "C:\\Users\\ketan",
+    "tempDirectory": "C:\\Users\\ketan\\AppData\\Local\\Temp",
+    "currentWorkingDirectory": "C:\\Users\\ketan\\Downloads\\Hackathon03"
+  },
+  "user": {
+    "username": "ketan",
+    "uid": -1,
+    "gid": -1,
+    "shell": "N/A"
+  },
+  "runtime": {
+    "nodeVersion": "v24.17.0",
+    "v8Version": "13.6.233.17-node.49",
+    "execPath": "C:\\Program Files\\nodejs\\node.exe",
+    "pid": 31984
+  },
+  "environmentVariables": {
+    "PATH": "c:\\Users\\ketan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand;c:\\Users\\ketan\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\copilotCli;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\MongoDB\\Server\\8.0\\bin;C:\\Users\\ketan\\AppData\\Roaming\\nvm;C:\\nvm4w\\nodejs;C:\\Users\\ketan\\AppData\\Roaming\\nvm;C:\\Program Files\\nodejs;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git\\mingw64\\bin;C:\\Program Files\\Git\\usr\\bin;C:\\Program Files\\nodejs\\;C:\\Users\\ketan\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\ketan\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\ketan\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\ketan\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Program Files\\mongosh\\;C:\\Users\\ketan\\AppData\\Local\\Microsoft\\WinGet\\Packages\\AgileBits.1Password.CLI_Microsoft.Winget.Source_8wekyb3d8bbwe\\.;C:\\Users\\ketan\\AppData\\Roaming\\npm",
+    "HOME": "Not set",
+    "USER": "Not set",
+    "USERNAME": "ketan",
+    "SHELL": "Not set",
+    "LANG": "en_US.UTF-8",
+    "TERM": "Not set",
+    "NODE_ENV": "Not set",
+    "TMPDIR": "Not set",
+    "TEMP": "C:\\Users\\ketan\\AppData\\Local\\Temp",
+    "PWD": "Not set"
+  }
+}
